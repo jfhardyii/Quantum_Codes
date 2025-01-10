@@ -169,7 +169,7 @@ end
     # Calculate wavevector from the dispersion relation
 # Parameters
 L = 1.0                                    # Width of the well
-println("Enter Number of points inn the grid (1000 is ideal, but more datapoint equals more time): ")
+println("Enter Number of points in the grid (1000 is ideal, but more datapoint equals more time): ")
 N = parse(Int,readline())                  # Number of points in the grid (discretization)
 ħ = 1                                      # Plank's with value of 1 to remain dimensionless
 m = 1                                      # Mass with value of 1 to remain dimensionless
