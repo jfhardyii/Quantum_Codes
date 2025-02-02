@@ -1,2 +1,2 @@
 # Quantum_Codes
-This repository is designed for the quantum research.
+Currently, there are codes to cacluate different properties of an infinte square well and a simple harmonic occilator.
